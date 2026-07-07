@@ -1,0 +1,3 @@
+"ring_number","tag_id","observation_type","datetime","latitude","longitude","location_name","device_status","observer","catching_method","age_class","sex","condition","mass","wing_length","additional_metric","observation_comments"
+"CP007","CP007","equipment",2023-08-23,-7.016224,37.810612,NA,NA,NA,NA,"0","U",NA,NA,NA,NA,
+"CP007","CP007","retrieval",2024-07-24,-7.016224,37.810612,NA,NA,NA,NA,"0","U",NA,NA,NA,NA,
